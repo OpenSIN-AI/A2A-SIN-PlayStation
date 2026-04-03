@@ -1,0 +1,10 @@
+{
+  "name": "@opensin/A2A-SIN-PlayStation",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "PlayStation Network messaging",
+  "main": "src/index.js",
+  "scripts": { "start": "node src/index.js" },
+  "dependencies": { "@opensin/shared-helpers": "workspace:*" },
+  "license": "MIT"
+}
