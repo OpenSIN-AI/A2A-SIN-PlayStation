@@ -1,0 +1,4 @@
+# n8n + A2A CI/CD Pipeline
+# This repo uses n8n webhooks for CI/CD, NOT GitHub Actions.
+# See: https://github.com/OpenSIN-AI/A2A-SIN-N8N
+# Webhook: POST to n8n instance on push/PR events
