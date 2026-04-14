@@ -4,8 +4,8 @@
 # writes it back into the persistent brain stores.
 # ALSO runs sin-brain auto-sync to keep global and local brain in sync.
 
-BRAIN_CLI="/Users/jeremy/dev/A2A-SIN-PlayStation/src/cli.js"
-BRAIN_ROOT="/Users/jeremy/dev/A2A-SIN-PlayStation"
+BRAIN_CLI="/Users/jeremy/dev/global-brain/src/cli.js"
+BRAIN_ROOT="/Users/jeremy/dev/global-brain"
 PROJECT_ID="A2A-SIN-PlayStation"
 SESSION_ID="session-$(date +%s)"
 
