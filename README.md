@@ -2,7 +2,7 @@
 
 > A2A agent integration for PlayStation messaging platform.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/OpenSIN-AI/A2A-SIN-PlayStation)](https://github.com/OpenSIN-AI/A2A-SIN-PlayStation)
 
 ## Overview
@@ -14,8 +14,8 @@ A2A (Agent-to-Agent) integration for PlayStation. Part of the OpenSIN-AI ecosyst
 ```bash
 git clone https://github.com/OpenSIN-AI/A2A-SIN-PlayStation.git
 cd A2A-SIN-PlayStation
-npm install
-npm start
+bun install
+bun start
 ```
 
 ## Features
@@ -35,7 +35,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
-MIT — See [LICENSE](LICENSE).
+Apache-2.0 — See [LICENSE](LICENSE).
 
 ## 📚 Documentation
 
